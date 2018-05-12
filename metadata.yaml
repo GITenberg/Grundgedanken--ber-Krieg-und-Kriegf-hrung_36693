@@ -1,0 +1,32 @@
+_repo: Grundgedanken--ber-Krieg-und-Kriegf-hrung_36693
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36693-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clausewitz, Carl von
+    aliases:
+    - Klausewitz, Karl von
+    - Clausewitz, Karl von
+    birthdate: 1780
+    deathdate: 1831
+    gutenberg_agent_id: '757'
+    url: http://www.gutenberg.org/2009/agents/757
+    wikipedia: http://en.wikipedia.org/wiki/Carl_von_Clausewitz
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36693'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcsh 'Military art and science'
+- !lcc 'U'
+title: Grundgedanken über Krieg und Kriegführung
+url: http://www.gutenberg.org/ebooks/36693
